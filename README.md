@@ -7,7 +7,7 @@ There are several project discussions:
 - Adapter Plates for commercial Project Boxes
 - Header Spacer for supporting Featherwings to Protoboards and Carrier Boards
 - 3D printed Project Boxes for indoor use
-- 3D printed Project Boxes for outdoor or morre extreme conditions
+- 3D printed Project Boxes for outdoor or extreme conditions
 - Misc topics as they come up!
 
 
